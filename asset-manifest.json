@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hr-creatures/static/css/main.9271e7ec.css",
+    "main.js": "/hr-creatures/static/js/main.237dde52.js",
+    "static/js/787.fd7ebef0.chunk.js": "/hr-creatures/static/js/787.fd7ebef0.chunk.js",
+    "static/media/joiningWaitingListBg.png": "/hr-creatures/static/media/joiningWaitingListBg.f7d762b4ed7d0b3a161b.png",
+    "static/media/HeroImage.png": "/hr-creatures/static/media/HeroImage.8f6bdf56830cc009c98e.png",
+    "static/media/HeroImage (2).png": "/hr-creatures/static/media/HeroImage (2).b21ffad8fe3a9a64bd38.png",
+    "static/media/smartScreening.png": "/hr-creatures/static/media/smartScreening.9082270e672c843242ed.png",
+    "static/media/vacancy.png": "/hr-creatures/static/media/vacancy.958d3a99998611ffaf28.png",
+    "static/media/contactBg.png": "/hr-creatures/static/media/contactBg.23eee9e15364b71bfa18.png",
+    "static/media/aboutUs.png": "/hr-creatures/static/media/aboutUs.13aa863032594e39eb37.png",
+    "static/media/contactUsImg.png": "/hr-creatures/static/media/contactUsImg.ab4941fa825426775a8a.png",
+    "static/media/Gilroy-Light.ttf": "/hr-creatures/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
+    "static/media/Gilroy-Regular.ttf": "/hr-creatures/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/hr-creatures/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/hr-creatures/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/hr-creatures/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-Black.ttf": "/hr-creatures/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
+    "static/media/creature.png": "/hr-creatures/static/media/creature.52d26454656932fc6923.png",
+    "static/media/Testimonialsbackground.png": "/hr-creatures/static/media/Testimonialsbackground.671493b4eb8be7ecf365.png",
+    "static/media/Fredoka-Regular.ttf": "/hr-creatures/static/media/Fredoka-Regular.1e194a185ab44e50d572.ttf",
+    "static/media/Fredoka-Bold.ttf": "/hr-creatures/static/media/Fredoka-Bold.56c4e9754904bf251f4e.ttf",
+    "static/media/t1.png": "/hr-creatures/static/media/t1.8654437a86058cfd3349.png",
+    "static/media/MainLogi.png": "/hr-creatures/static/media/MainLogi.405d7f0a638ddced5f90.png",
+    "static/media/creature-card-background.svg": "/hr-creatures/static/media/creature-card-background.f970abafecde1db5e956.svg",
+    "index.html": "/hr-creatures/index.html",
+    "main.9271e7ec.css.map": "/hr-creatures/static/css/main.9271e7ec.css.map",
+    "main.237dde52.js.map": "/hr-creatures/static/js/main.237dde52.js.map",
+    "787.fd7ebef0.chunk.js.map": "/hr-creatures/static/js/787.fd7ebef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9271e7ec.css",
+    "static/js/main.237dde52.js"
+  ]
+}
